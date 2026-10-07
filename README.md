@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/shin-megami-tensei)**.
+
 Traducción al **español de España** de *Shin Megami Tensei* (真・女神転生, PlayStation, 2001), la
 versión de PlayStation del RPG de Atlus de 1992: Tokio, 199X, un programa de invocación de
 demonios llega por la red y la ciudad se hunde entre la Ley y el Caos. Esta versión nunca salió
